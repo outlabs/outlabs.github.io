@@ -16,6 +16,14 @@ body {
 	overflow-x: hidden;
 }
 
+nav {
+	height: 70px;
+}
+
+.tabs-indicator {
+	color: orange;
+}
+
 .topo-fixo {
 	position: fixed;
 	top: 0;
