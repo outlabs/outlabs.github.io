@@ -7,7 +7,7 @@ h2,
 h3,
 h4,
 h5 {
-	font-family: 'Slabo 27px', serif;
+	font-family: 'Poiret One', cursive;
 	z-index: 4;
 }
 
@@ -34,6 +34,11 @@ nav {
 img,
 .logotipo {
 	padding: 10px;
+}
+
+.descricao {
+	font-size: 1.25rem;
+	font-family: "Source Sans Pro", sans-serif;
 }
 
 .fullscreen {
@@ -126,6 +131,10 @@ img,
 
 .instagram {
 	background-image: url(../images/instagram.png);
+}
+
+.services {
+	min-height: 500px;
 }
 
 .service {
